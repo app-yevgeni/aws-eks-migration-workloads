@@ -27,10 +27,6 @@ module "velero-ui" {
   depends_on = [module.velero]
 }
 
-module "kong" {
-  source = "./modules/kong"
-  depends_on = [module.velero-ui]
-}
 
 
 
