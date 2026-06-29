@@ -1,4 +1,5 @@
-<img width="1400" height="933" alt="image" src="https://github.com/user-attachments/assets/11c60dfb-3d9f-49b0-9549-6f691930111a" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/638a1807-e05d-46bb-86b7-88ddbce85551" />
+
 
 ## AWS | Backup and Restore ( Migration )  
 Provisioning an Amazon Elastic Kubernetes Service (EKS) cluster using Terraform allows you to define your entire infrastructure (VPC, subnets, IAM roles, and the cluster itself) as code, ensuring repeatable, version-controlled, and automated deployments.
