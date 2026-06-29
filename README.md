@@ -2,7 +2,7 @@
 
 
 ## AWS | Backup and Restore ( Migration )  
-Provisioning an Amazon Elastic Kubernetes Service (EKS) cluster using Terraform allows you to define your entire infrastructure (VPC, subnets, IAM roles, and the cluster itself) as code, ensuring repeatable, version-controlled, and automated deployments.
+Migration is the process of moving applications, data, and infrastructure between environments with minimal downtime and preserved data integrity. In Kubernetes, tools like Velero are used to back up and restore cluster resources, enabling reliable workload transfer between clusters. MinIO is commonly used as an object storage backend to securely store Velero backups. The Velero UI provides a visual interface to monitor, manage, and restore backups easily during migration.
 
 
 
